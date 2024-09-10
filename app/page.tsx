@@ -22,6 +22,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
           <div>test for mac</div>
+          <div>test for windows</div>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
